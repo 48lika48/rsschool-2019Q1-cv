@@ -17,19 +17,32 @@ footer {
 
 table {
     height: 150px;
-    width: 250px;
+    width: 300px;
     border-collapse: collapse;
-    margin-bottom: 20px;
+    display: inline-block;
 }
 
 th, td {
     border: 1px solid black;
     padding: 1px 1px 1px 1px;
+    height: 30px;
+    width: 300px;
 }
 
 td {
     text-align: justify;
     padding: 5px 0px 5px 10px; 
+}
+
+.profile_picture {
+    width: 150px;
+    height: 150px;
+    display: inline-block; 
+    margin-left: 550px;
+}
+
+.contacts {
+    margin: 20px 0px 20px 0px;
 }
 
 h1 {
