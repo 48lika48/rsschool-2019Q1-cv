@@ -1,0 +1,102 @@
+body {
+    width: 1024px;
+    margin: 0 auto;
+    font-family: "Helvetica", "Arial", sans-serif;
+}
+
+header {
+    padding-left: 20px;
+    padding-right: 20px;
+    background-color: grey;
+}
+
+main {
+    padding-left: 20px;
+    padding-right: 20px;
+    background-color: grey;
+}
+
+footer {
+    padding-left: 20px;
+    padding-right: 20px;
+    background-color: rgb(70, 70, 70);
+}
+
+table {
+    height: 150px;
+    width: 300px;
+    border-collapse: collapse;
+    display: inline-block;
+}
+
+th, td {
+    border: 1px solid black;
+    padding: 1px 1px 1px 1px;
+    height: 30px;
+    width: 300px;
+}
+
+td {
+    text-align: justify;
+    padding: 5px 0px 5px 10px; 
+}
+
+.profile_picture {
+    width: 150px;
+    height: 150px;
+    display: inline-block; 
+    margin-left: 525px;
+    border-radius: 20px;
+}
+
+.contacts {
+    margin-top: 20px;
+    padding-bottom: 20px;
+}
+
+h1 {
+    margin-top: 0px;
+    padding-top: 21.440px;
+    color: white;
+}
+
+.red {
+    color: red;
+}
+
+.orange {
+    color: orange;
+    margin-top: 0px;
+    padding-top: 19.920px;
+}
+
+.yellow {
+    color: yellow;
+}
+
+.green {
+    color: green;
+}
+
+.lightblue {
+    color: lightblue;
+}
+
+.darkblue {
+    color: darkblue;
+}
+
+.purple {
+    color: purple;
+}
+
+.eng {
+    margin-bottom: 0px;
+    padding-bottom: 16px; 
+}
+
+.last {
+    margin: 0px 0px;
+    padding: 16px 0px;
+    color: white;
+}
